@@ -8,10 +8,7 @@
 
 📫 How to reach me:
 - GitHub: https://github.com/n3xtChanc3
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [@YourTwitterHandle]
-- Website/Blog: [Your personal website or blog, if you have one]
+- Email: starsonthesky@protonmail.com
 
 <!---
 n3xtChanc3/n3xtChanc3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
